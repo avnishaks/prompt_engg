@@ -1,0 +1,39 @@
+" Hey , Programmer welcome to the world of the Prompt Engg"
+
+
+Introduction About the Prompt Engg : -
+
+Prompt engineering or in-context learning is an approach used in teaching a large language model to do anything that 
+it was not part of its pre-training. The results of learning are, however, contained within a single conversation and 
+completely forgotten by the model outside it.
+
+LLM [ Large language model]
+
+There are broadly two type of LLM models in the development feild :- 
+
+1. Based LLM : - Predict the next word based on text training data.
+
+For Eg : - 
+Example 1 : -
+Prompt Given : - Once upon a time there was a unicorn 
+Rest of the things AutoCompleted :- that lived in the magical forest with all the unicorn friends.
+
+Example 2:- 
+Prompt Given :- What is the capital of France ?
+Rest of the things AutoCompleted  with the given questions :- 
+-> What is the France largest city ?
+-> What is the France populations ?
+-> What is the currency of the France ?
+
+2. Instruction Tuned LLM :- 
+a. Tries to follow the instructions
+b. Fine tune on the instructions and good attempt at following the instructions
+c. RLHF :- It work on the Algorithms of the Reinforcement learning with Human Feedback
+
+Helpful , Honest , Harmless
+
+For Eg:- 
+Prompt Given : What is the capital of the France ?
+Response for the Prompt : The capital of the France is Paris.
+
+
